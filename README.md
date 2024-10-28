@@ -1,2 +1,9 @@
-# COM-LAB-I-2567-LabSheet-Week-09
-COM-LAB-I-2567-LabSheet-Week-10
+#include <stdio.h>
+int main()
+{
+char yourname[100]
+printff("What is your name \t");
+scanf("%s",yourname);
+printf("hello,%s\n",yourname);
+printf("goodbye\n");
+}
